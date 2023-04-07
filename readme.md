@@ -42,6 +42,19 @@
 </p>
 <br />
 
+<!-- About Section -->
+ # About me
+ 
+<p>
+ <img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
+  
+Major: Computer Science <br/><br/>
+Minors: Business Administration and Professional Writing  <br/><br/>
+Interests: Freelance Writer and a poet at heart :) <br/><br/>
+Hard-core pink enthusiast<br/><br/>
+Feel free to reach out here:[here](https://github.com/Ema-Ans/Ema-Ans/issues)
+
+</p>
 
 
 </p>
