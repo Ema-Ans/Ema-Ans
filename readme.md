@@ -49,10 +49,10 @@
  <img align="right" width="350" src="/assets/gamergirl.gif" alt="Coding gif" />
 # University: Carnegie Mellon University <br/><br/> 
 # Major: Computer Science <br/><br/>
-Minors: Business Administration and Professional Writing  <br/><br/>
-Interests: Freelance writing | Public Speaking | Basketball | Guitar <br/><br/>
-Hard-core pink enthusiast and a poet at heart <3 <br/><br/>
-Feel free to reach out!
+# Minors: Business Administration and Professional Writing  <br/><br/>
+# Interests: Freelance writing | Public Speaking | Basketball | Guitar <br/><br/>
+# Hard-core pink enthusiast and a poet at heart <3 <br/><br/>
+# Feel free to reach out!
 
 </p>
 
