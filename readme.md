@@ -21,17 +21,15 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Saif Al Siam</a></b>
+        <samp>&gt; Hello, It's Eman here!
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web appplication developer from <b>Bangladesh</b> 」
+    「 I am a Computer Science Student at Carnegie Mellon University</b> 」
     <br>
     <br>
   </samp>
