@@ -17,7 +17,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hello, It's Eman here!
+        <samp>&gt; Heyya, It's Eman here!
         </samp>
 </h3>
 
@@ -50,8 +50,8 @@
   
 Major: Computer Science <br/><br/>
 Minors: Business Administration and Professional Writing  <br/><br/>
-Interests: Freelance writing, hosting and a poet at heart :) <br/><br/>
-Hard-core pink enthusiast<br/><br/>
+Interests: Freelance writer| Hosting | Basketball | Guitar <br/><br/>
+Hard-core pink enthusiast and a poet at heart <3 <br/><br/>
 Feel free to reach out: [here](https://github.com/Ema-Ans/Ema-Ans/issues)
 
 </p>
