@@ -52,7 +52,7 @@ Major: Computer Science <br/><br/>
 Minors: Business Administration and Professional Writing  <br/><br/>
 Interests: Freelance writer| Hosting | Basketball | Guitar <br/><br/>
 Hard-core pink enthusiast and a poet at heart <3 <br/><br/>
-Feel free to reach out: [here](https://github.com/Ema-Ans/Ema-Ans/issues)
+Feel free to reach out!
 
 </p>
 
