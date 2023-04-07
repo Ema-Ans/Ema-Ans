@@ -25,7 +25,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Computer Science Student at Carnegie Mellon University</b> 」
+    「 Busy transfiguring my peoms into code...</b> 」
     <br>
     <br>
   </samp>
@@ -47,7 +47,7 @@
  
 <p>
  <img align="right" width="350" src="/assets/gamergirl.gif" alt="Coding gif" />
-  
+University: Carnegie Mellon University <br/><br/> 
 Major: Computer Science <br/><br/>
 Minors: Business Administration and Professional Writing  <br/><br/>
 Interests: Freelance writer| Hosting | Basketball | Guitar <br/><br/>
