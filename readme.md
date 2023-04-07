@@ -25,7 +25,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Busy transfiguring my peoms into code...</b> 」
+    「 BRB, busy transfiguring my peoms into code...</b> 」
     <br>
     <br>
   </samp>
