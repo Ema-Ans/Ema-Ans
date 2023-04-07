@@ -46,7 +46,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/gamergirl" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/gamergirl.gif" alt="Coding gif" />
   
 Major: Computer Science <br/><br/>
 Minors: Business Administration and Professional Writing  <br/><br/>
