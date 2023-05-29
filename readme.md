@@ -47,10 +47,10 @@
  
 <p>
  <img align="right" width="350" src="/assets/gamergirl.gif" alt="Coding gif" />
-University: Carnegie Mellon University <br/><br/> 
-Major: Computer Science <br/><br/>
-Minors: Business Administration and Professional Writing  <br/><br/>
-Interests: Freelance writing | Public Speaking | Basketball | Guitar <br/><br/>
+# University: Carnegie Mellon University <br/><br/> 
+# Major: Computer Science <br/><br/>
+# Minors: Business Administration and Professional Writing  <br/><br/>
+# Interests: Freelance writing | Public Speaking | Basketball | Guitar <br/><br/>
 And, lastly, WORDS have a spell on me!!! <br/><br/>Being a linguistic adventurer and programming enthusiast, I got lucky, <br/><br/>
 because I get to shape my fanstasies into reality as a profession.<br/><br/>
 
