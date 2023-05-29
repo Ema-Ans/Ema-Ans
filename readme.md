@@ -52,7 +52,7 @@ Major: Computer Science <br/><br/>
 Minors: Business Administration and Professional Writing  <br/><br/>
 Interests: Freelance writing | Public Speaking | Basketball | Guitar <br/><br/>
 And, lastly, WORDS have a spell on me!!! <br/><br/>Being a linguistic adventurer and programming enthusiast, I got lucky, <br/><br/>
-because I get to shape my fanstasies into reality as a profession. <br/><br/>
+because I get to shape my fanstasies into reality as a profession.<br/><br/>
 
  
   
