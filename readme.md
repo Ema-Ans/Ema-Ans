@@ -52,7 +52,8 @@ Major: Computer Science <br/><br/>
 Minors: Business Administration and Professional Writing  <br/><br/>
 Interests: Freelance writing | Public Speaking | Basketball | Guitar <br/><br/>
 Lastly If I could describe myself, I'd say that:
-" 𝘞𝘰𝘳𝘥𝘴 𝘦𝘯𝘤𝘩𝘢𝘯𝘵 𝘮𝘦. 𝘈𝘯𝘥 𝘢𝘴 𝘢 𝘭𝘪𝘯𝘨𝘶𝘪𝘴𝘵𝘪𝘤 𝘢𝘥𝘷𝘦𝘯𝘵𝘶𝘳𝘦𝘳 𝘢𝘯𝘥 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘦𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵, 𝘐 𝘨𝘰𝘵 𝘭𝘶𝘤𝘬𝘺, 𝘣𝘦𝘤𝘢𝘶𝘴𝘦 𝘐 𝘨𝘦𝘵 𝘵𝘰 𝘴𝘩𝘢𝘱𝘦 𝘮𝘺 𝘧𝘢𝘯𝘵𝘢𝘴𝘪𝘦𝘴 𝘪𝘯𝘵𝘰 𝘳𝘦𝘢𝘭𝘪𝘵𝘺 𝘢𝘴 𝘢 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯".
+Words enchant me. And as a linguistic adventurer and programming enthusiast, I got lucky, because I get to shape 
+my fanstasies into reality as a profession.
                                                 <br/><br/>
  
   
