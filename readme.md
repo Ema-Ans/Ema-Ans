@@ -51,8 +51,9 @@ University: Carnegie Mellon University <br/><br/>
 Major: Computer Science <br/><br/>
 Minors: Business Administration and Professional Writing  <br/><br/>
 Interests: Freelance writing | Public Speaking | Basketball | Guitar <br/><br/>
-Lastly If I could describe myself, I'd say that:
-Words enchant me. And as a linguistic adventurer and programming enthusiast, I got lucky, because I get to shape 
+Lastly If I could describe myself, I'd say that: <br/><br/>
+Words enchant me.   <br/><br/>
+And as a linguistic adventurer and programming enthusiast, I got lucky, because I get to shape 
 my fanstasies into reality as a profession.
                                                 <br/><br/>
  
