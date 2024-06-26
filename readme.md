@@ -41,11 +41,13 @@
 <!-- Currently Learning and Working On Section -->
 ## 🌱 Currently Learning and Working On
 
-- Learning about advanced topics in Machine Learning and AI.
+- Working as a Machine Learning and Signal Processing Researcher at **[CMU MLSP lab ](http://mlsp.cs.cmu.edu/)**.
+- Working as a Deep Learning Researcher at **[Hamad Medical Corporations' Surgical department ](https://www.hamad.qa/EN/Hospitals-and-services/Hamad-General-Hospital/Hospital-Services/Clinical-Departments/Pages/Surgical-Department.aspx)**.
+- I am currently interning at Snoonu as a Software Engineer.
 - Exploring cloud technologies and DevOps practices.
-- Building a personal project using React and TypeScript.
 - Experimenting with Docker and Kubernetes for container orchestration.
-- Contributing to open-source projects related to web development.
+
+- Reach out to me via my email: **「eansar _@_ cmu _._ edu」**
 
 <!-- Languages and Tools Section -->
 ## 🛠️ Languages and Tools
@@ -67,7 +69,7 @@
       </td>
       <td align="center" style="width: 40%;">
         <img src="https://smlnj.org/images/smlnj-logo.png" alt="sml" width="80"/>
-        <p>Standard ML</p>
+        <p>SML</p>
       </td>
       <td align="center" style="width: 40%;">
         <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="80"/>
