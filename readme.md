@@ -32,7 +32,7 @@
   🎓 &nbsp;<strong>University</strong>: <strong>Carnegie Mellon University</strong><br/><br/> 
   📚 &nbsp;<strong>Major</strong>: Computer Science <br/><br/>
   🧠 &nbsp;<strong>Concentration</strong>: Machine Learning <br/><br/>
-  🌟 &nbsp;<strong>Interests</strong>: Deep Learning & Machine Learning | Research | LLMs | CompBio | Computer Vision | NLP <br/><br/>
+  🌟 &nbsp;<strong>Interests</strong>: Deep Learning | LLMs | CompBio | Computer Vision | NLP <br/><br/>
   ✨ &nbsp;And lastly, WORDS have a spell on me!!! <br/><br/>
   As a linguistic adventurer and programming enthusiast, I've hit the jackpot, <br/><br/>
   because I get to shape my fantasies into reality as a profession. 💻🚀<br/><br/>
