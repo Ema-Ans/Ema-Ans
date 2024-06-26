@@ -32,31 +32,31 @@
   <table>
     <tr>
       <td align="center" style="width: 30.0%;">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="95"/>
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="80"/>
         <p>Python</p>
       </td>
       <td align="center" style="width: 30%;">
-        <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="95"/>
+        <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="80"/>
         <p>C#</p>
       </td>
       <td align="center" style="width: 30%;">
-        <img src="https://skillicons.dev/icons?i=c" alt="C" width="95"/>
+        <img src="https://skillicons.dev/icons?i=c" alt="C" width="80"/>
         <p>C</p>
       </td>
       <td align="center" style="width: 30%;">
-        <img src="https://smlnj.org/images/smlnj-logo.png" alt="sml" width="95"/>
+        <img src="https://smlnj.org/images/smlnj-logo.png" alt="sml" width="80"/>
         <p>Standard ML</p>
       </td>
-      <td align="center" style="width: 14.28%;">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="95"/>
+      <td align="center" style="width: 30%;">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="80"/>
         <p>PostgreSQL</p>
       </td>
-      <td align="center" style="width: 14.28%;">
-        <img src="https://skillicons.dev/icons?i=git" alt="git" width="95"/>
+      <td align="center" style="width: 30%;">
+        <img src="https://skillicons.dev/icons?i=git" alt="git" width="80"/>
         <p>Git</p>
       </td>
-      <td align="center" style="width: 14.28%;">
-        <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="95"/>
+      <td align="center" style="width: 30%;">
+        <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="80"/>
         <p>Bash</p>
       </td>
     </tr>
