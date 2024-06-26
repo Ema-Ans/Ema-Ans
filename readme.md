@@ -27,90 +27,74 @@
 <!-- Languages and Tools Section -->
 ## 🛠️ Languages and Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=c" alt="C" />
-    <img src="https://skillicons.dev/icons?i=vim" alt="Vim" />
-  </a>
-</p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,c,vim" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50"/>
+        <p>Python</p>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="50"/>
+        <p>C#</p>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" width="50"/>
+        <p>C</p>
+      </td>
+      <td align="center">
+        <img src="https://smlnj.org/images/smlnj-logo.png" alt="sml" width="50"/>
+        <p>Standard ML</p>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50"/>
+        <p>PostgreSQL</p>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" alt="git" width="50"/>
+       <p>Git</p>
+      </td>
+      <td align="center">
+      <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="50"/>
+      <p>Bash</p>
+    </tr>
+  </table>
 </p>
 
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/SML_(programming_language)" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/SML_logo.svg" alt="SML Programming" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/>
-  </a>
-  <a href="https://www.kaggle.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-us/services/power-apps/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerapps/microsoft_powerapps-icon.svg" alt="Azure PowerApps" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.scipy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" alt="Scipy" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://regexr.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/regexr/regexr-icon.svg" alt="Regex" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="50"/>
+       <p>Azure</p>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="50"/>
+        <p>GCP</p>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="50"/>
+       <p>AWS</p>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="50"/>
+        <p>OpenCV</p>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" width="50"/>
+        <p>Scikit-learn</p>
+       </td>
+       <td align="center">
+        <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="50"/>
+        <p>TensorFlow</p>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="50"/>
+        <p>PyTorch</p>
+    </tr>
+  </table>
 </p>
+
 
 <!-- Currently Learning and Working On Section -->
 ## 🌱 Currently Learning and Working On
