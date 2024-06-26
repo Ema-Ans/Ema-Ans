@@ -29,11 +29,11 @@
 
 <p>
   <img align="right" width="350" src="/assets/gamergirl.gif" alt="Coding gif" />
-  🎓 **University** : Carnegie Mellon University <br/><br/> 
-  📚 **Major**: Computer Science <br/><br/>
-  🧠 **Concentration**: Machine Learning <br/><br/>
-  🌟 **Interests**: Deep Learning | Research | LLMs <br/><br/>
-  ✨ And lastly, WORDS have a spell on me!!! <br/><br/>
+  🎓 &nbsp;<strong>University</strong>: <strong>Carnegie Mellon University</strong><br/><br/> 
+  📚 &nbsp;<strong>Major</strong>: Computer Science <br/><br/>
+  🧠 &nbsp;<strong>Concentration</strong>: Machine Learning <br/><br/>
+  🌟 &nbsp;<strong>Interests</strong>: Deep Learning | Research | LLMs <br/><br/>
+  ✨ &nbsp;And lastly, WORDS have a spell on me!!! <br/><br/>
   As a linguistic adventurer and programming enthusiast, I've hit the jackpot, <br/><br/>
   because I get to shape my fantasies into reality as a profession. 💻🚀<br/><br/>
 </p>
@@ -88,32 +88,32 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center" style="width: 14.28%;">
-        <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="50"/>
+      <td align="center" style="width: 40%;">
+        <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="80"/>
         <p>Azure</p>
       </td>
-      <td align="center" style="width: 14.28%;">
-        <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="50"/>
+      <td align="center" style="width: 40%;">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="80"/>
         <p>GCP</p>
       </td>
-      <td align="center" style="width: 14.28%;">
-        <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="50"/>
+      <td align="center" style="width: 40%;">
+        <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="80"/>
         <p>AWS</p>
       </td>
-      <td align="center" style="width: 14.28%;">
-        <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="50"/>
+      <td align="center" style="width: 40%;">
+        <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="80"/>
         <p>OpenCV</p>
       </td>
-      <td align="center" style="width: 14.28%;">
-        <img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" width="50"/>
+      <td align="center" style="width: 40%;">
+        <img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" width="80"/>
         <p>Scikit-learn</p>
       </td>
-      <td align="center" style="width: 14.28%;">
-        <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="50"/>
+      <td align="center" style="width: 40%;">
+        <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="80"/>
         <p>TensorFlow</p>
       </td>
-      <td align="center" style="width: 14.28%;">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="50"/>
+      <td align="center" style="width: 40%;">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="80"/>
         <p>PyTorch</p>
       </td>
     </tr>
