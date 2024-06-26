@@ -24,6 +24,28 @@
 </p>
 <br />
 
+<!-- About Section -->
+## About Me
+
+<p>
+  <img align="right" width="350" src="/assets/gamergirl.gif" alt="Coding gif" />
+  🎓 **University** : Carnegie Mellon University <br/><br/> 
+  📚 **Major**: Computer Science <br/><br/>
+  🧠 **Concentration**: Machine Learning <br/><br/>
+  🌟 **Interests**: Deep Learning | Research | LLMs <br/><br/>
+  ✨ And lastly, WORDS have a spell on me!!! <br/><br/>
+  As a linguistic adventurer and programming enthusiast, I've hit the jackpot, <br/><br/>
+  because I get to shape my fantasies into reality as a profession. 💻🚀<br/><br/>
+</p>
+
+<!-- Currently Learning and Working On Section -->
+## 🌱 Currently Learning and Working On
+
+- Learning about advanced topics in Machine Learning and AI.
+- Exploring cloud technologies and DevOps practices.
+- Building a personal project using React and TypeScript.
+- Experimenting with Docker and Kubernetes for container orchestration.
+- Contributing to open-source projects related to web development.
 
 <!-- Languages and Tools Section -->
 ## 🛠️ Languages and Tools
@@ -99,27 +121,7 @@
 </p>
 
 
-<!-- Currently Learning and Working On Section -->
-## 🌱 Currently Learning and Working On
 
-- Learning about advanced topics in Machine Learning and AI.
-- Exploring cloud technologies and DevOps practices.
-- Building a personal project using React and TypeScript.
-- Experimenting with Docker and Kubernetes for container orchestration.
-- Contributing to open-source projects related to web development.
-
-<!-- About Section -->
-# About me
-
-<p>
- <img align="right" width="350" src="/assets/gamergirl.gif" alt="Coding gif" />
-University: Carnegie Mellon University <br/><br/> 
-Major: Computer Science <br/><br/>
-Concentration: Machine Learning <br/><br/>
-Interests: Deep Learning | Research | LLMs  <br/><br/>
-And, lastly, WORDS have a spell on me!!! <br/><br/>Being a linguistic adventurer and programming enthusiast, I got lucky, <br/><br/>
-because I get to shape my fantasies into reality as a profession.<br/><br/>
-</p>
 
 <br/>
 <br/>
