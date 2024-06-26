@@ -24,40 +24,41 @@
 </p>
 <br />
 
+
 <!-- Languages and Tools Section -->
 ## 🛠️ Languages and Tools
-
 
 <p align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" style="width: 14.28%;">
         <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50"/>
         <p>Python</p>
       </td>
-      <td align="center">
+      <td align="center" style="width: 14.28%;">
         <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="50"/>
         <p>C#</p>
       </td>
-      <td align="center">
+      <td align="center" style="width: 14.28%;">
         <img src="https://skillicons.dev/icons?i=c" alt="C" width="50"/>
         <p>C</p>
       </td>
-      <td align="center">
+      <td align="center" style="width: 14.28%;">
         <img src="https://smlnj.org/images/smlnj-logo.png" alt="sml" width="50"/>
         <p>Standard ML</p>
       </td>
-      <td align="center">
+      <td align="center" style="width: 14.28%;">
         <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50"/>
         <p>PostgreSQL</p>
       </td>
-      <td align="center">
+      <td align="center" style="width: 14.28%;">
         <img src="https://skillicons.dev/icons?i=git" alt="git" width="50"/>
-       <p>Git</p>
+        <p>Git</p>
       </td>
-      <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="50"/>
-      <p>Bash</p>
+      <td align="center" style="width: 14.28%;">
+        <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="50"/>
+        <p>Bash</p>
+      </td>
     </tr>
   </table>
 </p>
@@ -65,32 +66,34 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" style="width: 14.28%;">
         <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="50"/>
-       <p>Azure</p>
-      <td align="center">
+        <p>Azure</p>
+      </td>
+      <td align="center" style="width: 14.28%;">
         <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="50"/>
         <p>GCP</p>
       </td>
-      <td align="center">
+      <td align="center" style="width: 14.28%;">
         <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="50"/>
-       <p>AWS</p>
+        <p>AWS</p>
       </td>
-      <td align="center">
+      <td align="center" style="width: 14.28%;">
         <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="50"/>
         <p>OpenCV</p>
       </td>
-      <td align="center">
+      <td align="center" style="width: 14.28%;">
         <img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" width="50"/>
         <p>Scikit-learn</p>
-       </td>
-       <td align="center">
+      </td>
+      <td align="center" style="width: 14.28%;">
         <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="50"/>
         <p>TensorFlow</p>
       </td>
-      <td align="center">
+      <td align="center" style="width: 14.28%;">
         <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="50"/>
         <p>PyTorch</p>
+      </td>
     </tr>
   </table>
 </p>
