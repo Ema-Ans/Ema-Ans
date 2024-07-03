@@ -83,6 +83,10 @@
         <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="80"/>
         <p>Bash</p>
       </td>
+      <td align="center" style="width: 40.0%;">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="80"/>
+        <p>Docker</p>
+      </td>
     </tr>
   </table>
 </p>
@@ -117,6 +121,10 @@
       <td align="center" style="width: 40%;">
         <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="80"/>
         <p>PyTorch</p>
+      </td>
+      <td align="center" style="width: 40.0%;">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="80"/>
+        <p>MongoDB</p>
       </td>
     </tr>
   </table>
