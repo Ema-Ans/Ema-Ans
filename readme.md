@@ -47,7 +47,7 @@
 - Exploring cloud technologies and DevOps practices.
 - Experimenting with Docker and Kubernetes for container orchestration.
 
-- Reach out to me via my email: **「eansar _@_ cmu _._ edu」**
+- Reach out to me via my email: **「eansar _@_ andrew _._ cmu _._ edu」**
 
 <!-- Languages and Tools Section -->
 ## 🛠️ Languages and Tools
