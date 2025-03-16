@@ -42,10 +42,7 @@
 ## 🌱 Currently Learning and Working On
 
 - Working as a Machine Learning and Signal Processing Researcher at **[CMU MLSP lab ](http://mlsp.cs.cmu.edu/)**.
-- Working as a Deep Learning Researcher at **[Hamad Medical Corporations' Surgical department ](https://www.hamad.qa/EN/Hospitals-and-services/Hamad-General-Hospital/Hospital-Services/Clinical-Departments/Pages/Surgical-Department.aspx)**.
-- I am currently interning at Snoonu as a Backend Software Engineer working with C#, MongoDB, Postman and Docker.
-- Exploring cloud technologies and DevOps practices.
-- Experimenting with Docker and Kubernetes for container orchestration.
+- Working as a NLP Research Assistant at **[CMU's NLP LAB](http://nlp.qatar.cmu.edu/)**.
 
 - Reach out to me via my email: **「eansar _@_ andrew _._ cmu _._ edu」**
 
